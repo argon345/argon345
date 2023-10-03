@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @argon345
+- I'm a Arduino and Python Dev 🖥
+- Currently working on Facial Recognition Using Arduino Pro
+- I would LOVE to collab on any sort of cool project
+- 😃Reach me at - shauryab69420@gmail.com
